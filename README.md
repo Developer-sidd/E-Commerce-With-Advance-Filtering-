@@ -15,9 +15,8 @@ Check out the live demo [here](https://e-commerce-with-advance-filtering.vercel.
 - **Product Details**: Detailed information about each product, including images, description, price, and availability.
 - **Cart Functionality**: Users can add products to their cart and proceed to checkout.
 - **Search Functionality**: Search functionality to easily find specific products.
-- **Sorting Options**: Sorting options to arrange products based on price, popularity, etc.
-- **User Authentication**: (If implemented) Secure user authentication to manage accounts and orders.
-- **Admin Panel**: (If implemented) Admin panel to manage products, orders, and users.
+- **Sorting Options**: Sorting options to arrange products based on price, Brand Name, etc.
+
 
 ## Technologies Used
 
