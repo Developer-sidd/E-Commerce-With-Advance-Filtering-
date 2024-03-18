@@ -1,6 +1,6 @@
 # Ecommerce Shoe Website with Advance Filtering
 
-![Ecommerce Shoe Website](Screenshot site.png)
+![Ecommerce Shoe Website](https://github.com/Developer-sidd/E-Commerce-With-Advance-Filtering-/blob/main/Screenshot%20site%20.png)
 
 This is an ecommerce shoe website built using React with advanced filtering capabilities. It allows users to browse through a collection of shoes and apply various filters to find their desired products.
 
